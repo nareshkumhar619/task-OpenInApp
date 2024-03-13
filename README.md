@@ -14,7 +14,7 @@ This repository contains the implementation of APIs and cron jobs for the Openin
 **1. Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/pankaj1251/OpeninApp-Assignment.git
+   git clone (https://github.com/nareshkumhar619/task-OpenInApp/)
 ```
 **2. Navigate to the project directory:**
 
@@ -34,6 +34,8 @@ This repository contains the implementation of APIs and cron jobs for the Openin
   PORT=<port_number>
   MONGODB_URI=<mongodb_connection_string>
   JWT_SECRET=<jwt_secret_key>
+  Twilio Sid:
+  Twilio token:
   ```
 
 **5. Run the application:**
